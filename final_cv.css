@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.container{
+    max-width: 85%;
+    background-color: rgb(234, 250, 250);
+    margin: 0 auto;
+}
+body{
+    background-color: whitesmoke;
+}
+.image-profile{
+    border-radius: 50%;
+    padding: 15px ;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding-top: 50px;
+}
+.header-contact{
+    float: right;
+    padding-top: 50px;
+    padding-right: 20px;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: solid black 1px;
+}
+#personal-section{
+
+}
+.content{
+
+}
+.left-div{
+    width: 40%;
+    float: left;
+}
+.right-div{
+    width: 60%;
+    float: right;
+}
+.table{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.table2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.left-di{
+    width: 10%;
+    float: left;
+    
+}
+.mid-di{
+    width: 30%;
+    float: right;
+}
+.right-di{
+    width: 45%;
+    float: right;
+}
